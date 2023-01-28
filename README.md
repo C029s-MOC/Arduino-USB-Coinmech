@@ -5,7 +5,9 @@ This is also my FIRST commit!
 
 Default key is the F16 key, for your additional safety.
 
-If you need to adjust the output key, make sure you check the link below! (they are different from the Virtual Key Code from Microsoft)
+If you need to adjust the output key, make sure you check the link below! 
+
+(they are different from the Virtual Key Code from Microsoft)
 
 https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/
 
@@ -13,7 +15,7 @@ https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodi
 
 HARDWARE REQUIREMENTS:
 
-1:The coin mechanism you purchase MUST HAVE an NC digital output (typivally the COIN wire and a NO/NC switch)
+1:The coin mechanism you purchase MUST HAVE an NC digital output (typically the COIN wire and a NO/NC switch)
 
 2:The board you purchase MUST BE 32u4 and SAMD based boards (Leonardo, Esplora, Zero, Due and MKR Family)
 

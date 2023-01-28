@@ -49,4 +49,4 @@ IMPROVEMENTS AND CUSTOMIZATIONS:
 
 4:The board can be safely hung inside the coin box with just the wires because they're small
 
-5:For software improments, please be open-source, thank you
+5:For software improvements, please be open-source, thank you
